@@ -11,7 +11,7 @@ Java 8
 **Input and Output Files**
 
 1. Product.txt
-2. 
+   
 This file contains information about the products loaded into the machine.
 
 Format:
